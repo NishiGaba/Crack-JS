@@ -1,4 +1,4 @@
-# My Path to Crack JS
+# My Path to Crack the JS :sunglasses:
 
 ### *“A collection of useful resources that a Followed to crack the JS”*
 
