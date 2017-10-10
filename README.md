@@ -41,3 +41,10 @@ If you want to dig deep into this, just follow this link: [developer-roadmap](ht
 
 
 # Refrences
+
+* [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+* [dev-blogs](https://medium.com/dev-blogs)
+
+## License
+
+MIT © [Nishi Gaba](https://github.com/NishiGaba)
