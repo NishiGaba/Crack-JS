@@ -1,10 +1,9 @@
 # My Path to Crack the JS :sunglasses:
 
-### *“A collection of useful resources that a Followed to crack the JS”*
+### *“A collection of useful resources that I Followed to crack the JS”*
 
 All the steps that I am going to mention in this Path are the steps that are eventually followed by me so that you all get the Efficient and Time worthy Stuff only.
 
-Follow the Path with me: 
 
 # Developer Roadmap
 
