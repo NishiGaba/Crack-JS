@@ -18,12 +18,12 @@ I choose the path of Full-Stack Development(Both Front-End and Back End) for mys
 ## Content
 
 * Front-End Development
-  *HTML
-  *CSS
-  *JS
+  * HTML
+  * CSS
+  * JS
 * Back-End Development
-  *Web-Server
-  *Restful-API
+  * Web-Server
+  * Restful-API
 
 ## Repo's you must Go Through
 
