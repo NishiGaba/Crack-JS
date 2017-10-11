@@ -12,7 +12,7 @@ For becoming the Pro in Development, the very first step that you should take is
 ![](https://i.imgur.com/MWkeM18.png)
 
 This is the Perfect Developer Roadmap that guides you through the Front-End, Back End and DevOps Developer Path.
-If you want to dig deep into this, just follow this link: [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+If you want to dig deep into this, just follow this link: [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap). After choosing the path to development, now we can go further with the development from basics to advanced concepts.
 
 # Repo's you must Go Through
 
