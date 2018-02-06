@@ -57,6 +57,12 @@ I choose the path of Full-Stack Development(Both Front-End and Back End) for mys
 * [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
 * [dev-blogs](https://medium.com/dev-blogs)
 
+## Oh, Thanks!
+
+By the way... thank you! And if you'd like to [say thanks](https://saythanks.io/to/NishiGaba)... :) 
+
+✨🍰✨
+
 ## License
 
 MIT © [Nishi Gaba](https://github.com/NishiGaba)
