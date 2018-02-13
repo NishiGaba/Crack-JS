@@ -35,6 +35,12 @@ I choose the path of Full-Stack Development(Both Front-End and Back End) for mys
 
 * [You-Dont-Know-JS](https://github.com/NishiGaba/You-Dont-Know-JS)
 
+## Courses/Milestones to Follow
+
+* [teamTreeHouse](https://teamtreehouse.com/tracks)
+* [freeCodeCamp](https://www.freecodecamp.org/map)
+* [PluralSight](https://app.pluralsight.com/library/)
+
 ## Blogs to Read
 
 * [Simple and best way to practice JavaScript](https://medium.com/dev-blogs/simple-and-best-way-to-practice-javascript-f91e8de1232e)
