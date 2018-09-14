@@ -42,6 +42,7 @@ I choose the path of Full-Stack Development(Both Front-End and Back End) for mys
 * [teamTreeHouse](https://teamtreehouse.com/tracks)
 * [freeCodeCamp](https://www.freecodecamp.org/map)
 * [PluralSight](https://app.pluralsight.com/library/)
+* [CS50's Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x)
 
 ## Blogs to Read
 
@@ -59,8 +60,6 @@ I choose the path of Full-Stack Development(Both Front-End and Back End) for mys
 
 
 ## Videos to Watch
-
-* [CS50's Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x)
 
 * [Top 10 JavaScript Interview Questions](https://www.youtube.com/watch?v=oxoFVqetl1E)
 
