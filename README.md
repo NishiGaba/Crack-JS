@@ -53,8 +53,14 @@ I choose the path of Full-Stack Development(Both Front-End and Back End) for mys
 
 * [True path to become a JavaScript Ninja — III](https://medium.com/dev-blogs/true-path-to-become-a-javascript-ninja-iii-22914e928197)
 
+## Sites to Visit
+
+* [javascript.info](https://javascript.info/)
+
 
 ## Videos to Watch
+
+* [CS50's Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x)
 
 * [Top 10 JavaScript Interview Questions](https://www.youtube.com/watch?v=oxoFVqetl1E)
 
@@ -66,6 +72,8 @@ I choose the path of Full-Stack Development(Both Front-End and Back End) for mys
 * [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 * [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
 * [dev-blogs](https://medium.com/dev-blogs)
+* [edx.org](https://www.edx.org/)
+* [javascript.info](https://javascript.info/)
 
 ## Oh, Thanks!
 
